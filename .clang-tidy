@@ -1,0 +1,14 @@
+---
+Checks: "*,
+        -abseil-*,
+        -altera-*,
+        -android-*,
+        -boost-*,
+        -fuchsia-*,
+        -google-*,
+        -llvmlibc-*,
+        -zircon-*,
+"
+WarningsAsErrors: '*'
+HeaderFilterRegex: ''
+FormatStyle:     none
